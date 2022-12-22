@@ -1,18 +1,11 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name Jeff. No my name is Christopher Zamora. Eventually this site will turn into a personal blog where you'll get to learn more about me. I like to learn new technology, fizzy drinks (non-alcoholic), the beautiful game, imitation crab, and loafers. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# MUSIC
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5Z8Dj3LtbyCMiwE86rhg2f?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
