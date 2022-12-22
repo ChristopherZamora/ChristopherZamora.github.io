@@ -4,5 +4,3 @@
 
 layout: myblog/home
 ---
-
-Wuddup. Welcom to my site. This is a work in progress, but I will start adding my personal touch soon! 
