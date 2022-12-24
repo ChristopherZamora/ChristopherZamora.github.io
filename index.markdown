@@ -3,8 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Welcome
 ---
-## Welcome!
+
 This site is still a work in progress, but over time I hope to add my own personal touch to this site. 
 
 ## What I'm up to!
