@@ -28,9 +28,12 @@ twitter_username: CJZdaYprodigy
 github_username:  ChristopherZamora
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hydeout
 plugins:
   - jekyll-feed
+
+#pagination 
+paginate: 5
 
 # Exclude from processing.
 # The following items will not be processed, by default.

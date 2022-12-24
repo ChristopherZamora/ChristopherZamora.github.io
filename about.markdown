@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: category
 title: About
 permalink: about/
+sidebar_sort_order: 1
 ---
 
 My name Jeff. No my name is Christopher Zamora. Eventually this site will turn into a personal blog where you'll get to learn more about me. I like to learn new technology, fizzy drinks (non-alcoholic), the beautiful game, imitation crab, and loafers. 
