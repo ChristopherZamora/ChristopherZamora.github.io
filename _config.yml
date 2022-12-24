@@ -28,7 +28,7 @@ twitter_username: CJZdaYprodigy
 github_username:  ChristopherZamora
 
 # Build settings
-theme: jekyll-theme-hydeout
+theme: minima
 plugins:
   - jekyll-feed
 
