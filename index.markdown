@@ -4,7 +4,7 @@
 
 layout: home
 ---
-# Welcome!
+## Welcome!
 This site is still a work in progress, but over time I hope to add my own personal touch to this site. 
 
 ## What I'm up to!
