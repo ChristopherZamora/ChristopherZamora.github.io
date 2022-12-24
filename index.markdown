@@ -6,7 +6,7 @@ layout: page
 title: Welcome
 ---
 
-This site is still a work in progress, but over time I hope to add my own personal touch to this site. 
+This site is still a work in progress, but over time I hope to add my own personal touch to this site. LOL
 
 ## What I'm up to!
 <iframe height='455' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/106438916/latest-rides/2b1c423ee3ab71d858be7486afcacc9240b00a59'></iframe>
