@@ -32,8 +32,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
-#pagination 
-paginate: 5
+# Header
+header_pages:
+- index.markdown
+- about.markdown
+- posts.markdown
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

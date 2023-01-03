@@ -4,6 +4,7 @@
 
 layout: page
 title: Welcome
+order: 1
 ---
 
 This site is still a work in progress, but over time I hope to add my own personal touch to this site.

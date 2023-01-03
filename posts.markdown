@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Posts
+title: Daily Entry
 permalink: posts/
+order: 3
 ---
-This is my first JOUNRAL!
+I will make a daily post here in the format of a public journal.
